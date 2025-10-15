@@ -49,3 +49,8 @@ drop if missing(edu_madre) & missing(edu_padre)
 drop if missing(edu_hijo)
 
 sort directorio
+npm install -g @openai/codex
+brew install codex
+codex
+
+
